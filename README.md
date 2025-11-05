@@ -34,7 +34,7 @@
 `Git` • `Jupyter` • `VS Code` • `Claude Code` • `Cursor` • `Gemini CLI` 
 
 ## 📊 Featured Project
-### [Bus Passenger Prediction - Trondheim Public Transport](https://github.com/oyvsar/[your-repo-name])
+### [Bus Passenger Prediction - Trondheim Public Transport](https://github.com/oyvinds78/trondheim-bus-ridership-pred/)
 Developed a machine learning model to predict passenger traffic for Trondheim's bus system (AtB):
 - Integrated and processed **18.7 million rows** of data from multiple sources
 - Implemented **6-fold expanding window cross-validation** for time series
