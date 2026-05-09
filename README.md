@@ -5,7 +5,7 @@
 **Data Analyst & Machine Learning Developer** transitioning from 20 years of entrepreneurship and leadership in the restaurant industry to applied machine learning and data science.
 
 ## 🎓 Education
-- **Applied Machine Learning** (Bachelor) - Noroff School of Technology and Digital Media (2023-2025)
+- **Applied Machine Learning** - Noroff School of Technology and Digital Media (2023-2025)
 - Focus: Practical ML applications, data analysis, and predictive modeling
 
 ## 🚀 What I'm working on
@@ -44,6 +44,7 @@ Developed a machine learning model to predict passenger traffic for Trondheim's 
 ## 🌱 Currently learning
 - Advanced MLOps practices
 - Deep learning architectures
+- Agentic AI
 - LLM integration and prompt engineering
 - Cloud-based ML deployment
 
@@ -53,11 +54,10 @@ Developed a machine learning model to predict passenger traffic for Trondheim's 
 - **Location:** Trondheim, Norway
 
 ## 💡 About me
-I bring a unique perspective to machine learning by combining technical skills with real-world business experience. My background in running small-margin businesses has taught me to focus on practical, value-creating solutions rather than just technical sophistication. I'm passionate about using data and AI to solve problems that actually matter.
-
+-Curious, open minded, not very fond of stagnation.
 ---
 
-⭐️ Open to opportunities in data science, machine learning, and AI consulting in the Trondheim area
+⭐️ Working as machine learning engineer at Gridscout. 
 
 
 
