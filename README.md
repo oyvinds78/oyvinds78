@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Øyvind Sarheim
 
-**Machine Learning Engineer at [GridScout](https://gridscout.no)**, building sensor-based condition monitoring for overhead power line infrastructure.
+**Machine Learning Engineer at [GridScout](https://gridscout.io)**, building sensor-based condition monitoring for overhead power line infrastructure.
 
 I turn raw sensor signals into data pipelines, features and models that help keep the power grid reliable. Before ML, I spent 20+ years running restaurants, which taught me to make decisions on thin margins, lead teams under pressure, and care about results more than hype.
 
